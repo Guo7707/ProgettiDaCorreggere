@@ -16,6 +16,7 @@ public class CodaArrayoggetti {
     public static void main(String[] args) {
         queque run = new queque();
         run.gestionecoda();
+        //test
     }
     
 }
